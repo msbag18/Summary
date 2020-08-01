@@ -1,6 +1,6 @@
 # Welcome to my github 👋🏼
 
-![Logo](desktop/logo.png)
+![ ](desktop/logo1.png)
 
 I am a Final-Year undergraduate student at University College London (@UCL) studying Earth Sciences in the Faculty of Mathematics and Physical Scieces. My interest in the world of programming started in my first year whereby Matlab was a compulsory module. Fascinated how direct and powerful coding was, I eventually followed coursed in Java and Python with Microsoft. The more I learned, the deeper my I dove into the subject, experimenting with data mining and artificial intelligence.
 
